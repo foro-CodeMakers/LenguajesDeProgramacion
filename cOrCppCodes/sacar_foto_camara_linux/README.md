@@ -5,7 +5,8 @@ Programa para Linux que saca una foto con una camara conectada a la pc.
 ## Compilar
 Necesitan tener la libreria de ffmpeg (http://www.ffmpeg.org), yo use la version 3.0
 
-Ejecutar
+Para compilar, ejecutar
+
 make clean all
 
 ## Uso
